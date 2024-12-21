@@ -44,6 +44,7 @@ services:
       - 80:80
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+    platform: linux/amd64
 
   ###################################################
   # Service: backend
