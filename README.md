@@ -1,5 +1,5 @@
 # 目的
-- Dockerを使ったnode.js
+- Dockerを使ったnode.js、Reactのハンズオン。
 
 # Getting Started Todo App
 
